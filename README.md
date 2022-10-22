@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saminagithub
-- 👀 I’m interested in test Automation frame works
+- 👀 I’m interested in test Automation frame works and Api testing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any backend and front end Automation Frameworks
 - 📫 How to reach me ...
